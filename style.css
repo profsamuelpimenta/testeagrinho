@@ -1,5 +1,5 @@
 body {
-    background-color: #b3e5fc; /* Cor de fundo verde claro */
+    background-color: #4585a3; /* Cor de fundo verde claro */
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
@@ -8,7 +8,7 @@ body {
   header {
     background-color: #ff8a80; /* Cor de fundo salmão */
     padding: 20px;
-    color: #ffffff; /* Cor do texto branco */
+    color: #0c0c0c; /* Cor do texto branco */
   }
   
   h1 {
@@ -27,7 +27,7 @@ body {
   }
   
   nav ul li a {
-    color: #ffffff; /* Cor do texto branco */
+    color: #161515; /* Cor do texto branco */
     text-decoration: none;
   }
   
@@ -37,13 +37,13 @@ body {
   }
   
   h2 {
-    color: #009688; /* Cor do título verde */
+    color: #15992b; /* Cor do título verde */
   }
   
   footer {
-    background-color: #ff8a80; /* Cor de fundo salmão */
+    background-color: #df62529d; /* Cor de fundo salmão */
     padding: 20px;
-    color: #ffffff; /* Cor do texto branco */
+    color: #080808; /* Cor do texto branco */
     text-align: center;
   }
   
