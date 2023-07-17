@@ -1,40 +1,49 @@
 body {
-    background-color: #f5f5f5;
-    font-family: Arial, sans-serif;
-    color: #333333;
+    background-color: #b3e5fc; /* Cor de fundo verde claro */
     margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #ff8a80; /* Cor de fundo salmão */
     padding: 20px;
+    color: #ffffff; /* Cor do texto branco */
   }
   
   h1 {
-    text-align: center;
-    color: #009688;
-    margin-bottom: 30px;
+    margin: 0;
   }
   
-  h2 {
-    color: #009688;
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
   }
   
-  ul {
-    list-style-type: disc;
-    margin-left: 30px;
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
   }
   
-  li {
-    margin-bottom: 10px;
+  nav ul li a {
+    color: #ffffff; /* Cor do texto branco */
+    text-decoration: none;
   }
   
-  p {
+  section {
+    padding: 20px;
     margin-bottom: 20px;
   }
   
-  .parana-image {
-    width: 300px;
-    height: auto;
-    margin: 20px auto;
-    display: block;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  h2 {
+    color: #009688; /* Cor do título verde */
+  }
+  
+  footer {
+    background-color: #ff8a80; /* Cor de fundo salmão */
+    padding: 20px;
+    color: #ffffff; /* Cor do texto branco */
+    text-align: center;
   }
   
